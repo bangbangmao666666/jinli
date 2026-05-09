@@ -1,0 +1,5 @@
+
+# school-matcher 依赖
+# 仅使用 Python 标准库，无需额外依赖
+# 如需测试，可添加 pytest 等测试框架
+
