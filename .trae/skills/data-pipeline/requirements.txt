@@ -1,0 +1,14 @@
+# 数据准备 依赖
+# Python >= 3.9
+
+# PDF 解析（文字版 PDF，含表格）
+pdfplumber>=0.10.3
+
+# Excel 解析
+openpyxl>=3.1.2
+
+# Word 解析
+python-docx>=1.1.0
+
+# 数据处理
+# （不引入 pandas，减少依赖，只用标准库 + openpyxl 直接处理）
